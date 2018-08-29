@@ -4,8 +4,6 @@ Machine Learning EE-690
 Course Professor: Leon Jololian, Ph.D.  
 University of alabama at birmingham   
 
-# Introduction to Numpy
-
 Contents:  
 * Creating 1-D Arrays  
 * Creating 2-D Arrays  
